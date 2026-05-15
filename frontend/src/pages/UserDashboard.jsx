@@ -1317,7 +1317,7 @@ const globalStyles = `
     cursor: pointer;
   }
 
-  .buy-modal-cancel {
+  .buy-modal-cancel { 
     background: #e5e7eb;
     color: #111827;
   }
